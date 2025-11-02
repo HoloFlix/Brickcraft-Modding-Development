@@ -2,7 +2,7 @@
 
 **Brick-Link** is an open-source proof-of-concept modding toolkit for *Brickcraft* (a leaked prototype of a LEGO-themed Minecraft sandbox game, internally codenamed "Rex-Kwon-Do"). It provides a DLL injector, runtime patcher, and a user-friendly Mod Manager GUI to inject an ImGui-based debug console into the game client and server. 
 
-The console allows for basic command execution over the network (client-to-server), with hooks for logging decompressed world data. **This is an early prototype—features like full console functionality are a work-in-progress (WIP). Use at your own risk!**
+The console allows for basic command execution over the network (client-to-server), with hooks for logging decompressed world data. **This is an early prototype; features like full console functionality are a work-in-progress (WIP). Use at your own risk!**
 
 ## Features
 - **Mod Manager GUI**: A standalone SDL2/OpenGL app with ImGui for easy configuration, file browsing, and one-click launching/injection of the client and server.
