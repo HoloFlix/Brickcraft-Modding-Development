@@ -26,8 +26,6 @@ The console allows for basic command execution over the network (client-to-serve
   - Vendor libs: MinHook, ImGui, SDL2, GLEW.
   - Game DLLs: `RakNet.dll`, `SDL.dll` (assumed present in game dir).
 
-No internet required—everything is offline.
-
 ## Quick Start
 1. **Download**: Grab the latest release from [Releases](https://github.com/yourusername/Brick-Link/releases).
 2. **Extract**: Unzip to a folder (e.g., `C:\Brick-Link`).
